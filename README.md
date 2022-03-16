@@ -9,7 +9,7 @@ Find distance from person to camera using YoloV4 object detector, Single drone m
 - [x] Finding distance of mutiple persons at same time.
 - [x] Finding angle of person relative to the drone.
 
-## Installation you need opencv-contrib-python
+## Installation:
 
 [opencv contrib](https://pypi.org/project/opencv-contrib-python/)
 
